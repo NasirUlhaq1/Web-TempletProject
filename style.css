@@ -1,0 +1,38 @@
+
+*{
+    padding: 0;
+
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+
+.hero-container{
+    width: 1270px;
+    height: auto;
+
+    background-color: hwb(16 31% 0%);
+
+    display: flex;
+    padding: 0px 40px 0px 40px;
+
+}
+
+.img1{
+    width: 410px;
+
+    margin-top: 150px;
+}
+
+.img2{
+    width: 360px;
+    margin-top: 50px;
+}
+
+
+.img3{
+    width: 410px;
+    margin-top: 150px;
+
+}
